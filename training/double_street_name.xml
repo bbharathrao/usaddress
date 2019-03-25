@@ -1,0 +1,8 @@
+<AddressCollection>
+  <AddressString><StreetName>Garden</StreetName> <StreetName>Hills</StreetName> <StreetNamePostType>St</StreetNamePostType> <PlaceName>Miami</PlaceName> <StateName>FL</StateName> <ZipCode>33999</ZipCode></AddressString>
+  <AddressString><StreetName>Bay</StreetName> <StreetName>Main</StreetName> <StreetNamePostType>Street</StreetNamePostType> <PlaceName>Richmond</PlaceName> <StateName>VA</StateName> <ZipCode>54334</ZipCode></AddressString>
+  <AddressString><StreetName>Upper</StreetName> <StreetName>hunters</StreetName> <StreetNamePostType>Rd</StreetNamePostType> <PlaceName>Louisville</PlaceName> <StateName>KY</StateName> <ZipCode>40216</ZipCode></AddressString>
+  <AddressString><StreetName>New</StreetName> <StreetName>Park</StreetName> <StreetNamePostType>Rd</StreetNamePostType> <PlaceName>West</PlaceName> <PlaceName>Hartford</PlaceName> <StateName>CT</StateName> <ZipCode>16110</ZipCode></AddressString>
+  <AddressString><StreetName>Mid</StreetName> <StreetName>Island</StreetName> <StreetNamePostType>Street</StreetNamePostType> <PlaceName>HICKSVILLE</PlaceName> <StateName>NY</StateName> <ZipCode>11801</ZipCode></AddressString>
+  <AddressString><StreetName>Low</StreetName> <StreetName>Anne</StreetName> <StreetNamePostType>Rd</StreetNamePostType> <PlaceName>Baltimore</PlaceName> <StateName>MD</StateName> <ZipCode>35362</ZipCode></AddressString>
+</AddressCollection>

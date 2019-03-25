@@ -1,0 +1,4 @@
+<AddressCollection>
+  <AddressString><StreetName>Bay</StreetName> <StreetName>kings</StreetName> <StreetNamePostType>Rd</StreetNamePostType> <PlaceName>Hartford</PlaceName> <StateName>CT</StateName> <ZipCode>37626</ZipCode></AddressString>
+  <AddressString><StreetName>New</StreetName> <StreetName>York</StreetName> <StreetNamePostType>Ave</StreetNamePostType> <PlaceName>PLAINVIEW</PlaceName> <StateName>NY</StateName> <ZipCode>11765</ZipCode></AddressString>
+</AddressCollection>
